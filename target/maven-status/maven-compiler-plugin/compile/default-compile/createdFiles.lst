@@ -1,0 +1,9 @@
+org\banger\manage\ClanAPI.class
+org\banger\commands\ClanChatCommand.class
+org\banger\util\ItemBuilder.class
+org\banger\listener\InventoryListeners.class
+org\banger\firstmcclans\FirstMCClansPlugin.class
+org\banger\listener\JoinListener$1.class
+org\banger\commands\ClanCommand.class
+org\banger\listener\JoinListener.class
+org\banger\util\CFGUtility.class

@@ -1,0 +1,7 @@
+name: FirstMCClansPlugin
+version: '${project.version}'
+main: org.banger.firstmcclans.FirstMCClansPlugin
+api-version: '1.20'
+commands:
+  clan:
+  clanchat:
